@@ -1,1 +1,1 @@
-# Blinkit-Store-Analysis-Power-BI-Dashboard-
+To develop a detailed Power BI dashboard that delivers actionable insights into Blinkit's sales data, facilitating optimized business strategies through thorough visualization and analysis of key metrics.
